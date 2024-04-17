@@ -1,9 +1,9 @@
 ### Oii! eu sou o Rafael Rodrigues
 
-- 🔭 Eu trabalho com front-end 
-- 🌱 Estudando no alura Edutech 
+- 🔭 Eu trabalho com full-stack  
+- 🌱 Cursando Engenharia de Software
 - 📫 Contate-me : rafaelbrk75@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 <div>
   <a href="https://github.com/Rafaelbrk75">
