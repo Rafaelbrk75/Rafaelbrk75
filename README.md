@@ -10,7 +10,13 @@
   <a href="https://github.com/Rafaelbrk75">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaelbrk75&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelbrk75&layout=compact&langs_count=7&theme=dark"/>
-    
+</div>
+<div style="display: inline-block"><br>
+  <img aline="center" alt="Rafa-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
+  <img aline="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img aline="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img aline="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />       
+          
 </div>
   
  ##
