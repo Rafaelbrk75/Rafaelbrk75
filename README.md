@@ -1,6 +1,5 @@
 ### Oii! eu sou o Rafael Rodrigues
 
-- 🔭 Trabalho com Back-end 
 - 🌱 Cursando Engenharia de Software
 - 📫 Contate-me : rafaelbrk75@gmail.com
 
