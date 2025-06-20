@@ -1,28 +1,46 @@
-### Oii! eu sou o Rafael Rodrigues
+### Opa! Eu sou o Rafael Rodrigues 👨‍💻
 
-- 🌱 Cursando Engenharia de Software
-- 📫 Contate-me : rafaelbrk75@gmail.com
+- 🚀 Estudante de Engenharia de Software, movido a café e código.
+- 💡 Apaixonado por tecnologia, inovação e por resolver problemas na base da lógica.
+- 📚 Sempre aprendendo algo novo e construindo projetos que misturam criatividade e propósito.
+- 📫 Me chama no e-mail: **rafaelbrk75@gmail.com**
 
-<div>
+---
+
+<div align="center">
   <a href="https://github.com/Rafaelbrk75">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaelbrk75&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelbrk75&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaelbrk75&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelbrk75&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
-<div style="display: inline-block"><br>
-  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind"/></code>
+
+---
+
+### 🛠️ Tecnologias que manjo
+
+**💬 Linguagens & Marcação**<br>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS"/></code>
+
+**⚙️ Frameworks & Ferramentas** <br>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue.js"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind"/></code>
+
+**🔧 Controle de Versão**<br>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"/></code>
+
+---
+
+<div align="center">
+  <a href="https://instagram.com/rafaeldoc3" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-rodrigues-aa4590304/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
-  
- ##
-  
- <div> 
-   <a href="https://instagram.com/rafaeldoc3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/rafael-rodrigues-aa4590304/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+
