@@ -30,6 +30,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind"/></code>
 
+**🗄️ Banco de Dados**  
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
 **🔧 Controle de Versão**<br>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"/></code>
 
