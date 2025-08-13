@@ -26,6 +26,7 @@
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" /></code>
 </div>
 
 ---
