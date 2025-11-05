@@ -1,6 +1,6 @@
 ### Opa! Eu sou o Rafael Rodrigues 👨‍💻
 
-- 🚀 Estudante de Engenharia de Software.
+- 🚀 Estudante de Engenharia de Software 4° Semestre.
 - 💡 Apaixonado por tecnologia, inovação e por resolver problemas na base da lógica.
 - 📚 Sempre aprendendo algo novo e construindo projetos que misturam criatividade e propósito.
 - 📫 Me chama no e-mail: **rafaelbrk75@gmail.com**
