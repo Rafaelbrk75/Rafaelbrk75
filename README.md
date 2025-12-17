@@ -27,6 +27,9 @@
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" /></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" /></code>
+  <code>
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Framework" /></code>
 </div>
 
 ---
