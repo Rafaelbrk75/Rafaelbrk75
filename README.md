@@ -4,7 +4,7 @@
   </p>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=30&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;Focado+em+Desenvolvimento+Backend+Java;Entusiasta+de+QA+e+Automação+de+Testes;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=30&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;Focado+em+Desenvolvimento+Backend+Java;r=Trabalho+como+QA+e+Automação+de+Testes;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rafaelbrk75&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=8f00ff&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Rodrigues" /> 
