@@ -39,7 +39,7 @@
 ![VS Code](https://img.shields.io/badge/-visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <div align="center">  
-  <a href="https://www.linkedin.com/in/rafael-rodrigues-aa4590304/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/rafael-rodrigues-oliveira-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:rafaelbrk75@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23DB4A39?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
