@@ -38,9 +38,13 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<div align="center">  
-  <a href="www.linkedin.com/in/rafael-rodrigues-oliveira-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:rafaelbrk75@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23DB4A39?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafael-rodrigues-oliveira-santos" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:rafaelbrk75@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23DB4A39?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
