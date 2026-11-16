@@ -4,7 +4,8 @@
   </p>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=30&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;Focado+em+Desenvolvimento+Backend+Java;Trabalho+como+QA+e+Automação+de+Testes;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=26&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+Software;QA+Engineer+%7C+Software+Testing;Testes+Funcionais+%7C+Testes+de+API;Análise+de+Regras+de+Negócio;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
 
 
 
